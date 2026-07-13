@@ -43,7 +43,7 @@ A document management and AI chat platform that lets you upload documents (PDF, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/rag-docs.git
+   git clone https://github.com/ErrorSuckss/RAGDocs.git
    cd rag-docs
    ```
 
